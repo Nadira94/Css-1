@@ -1,0 +1,40 @@
+
+        h1{
+            text-align: center;
+            color: #2470e2c9;
+            font-size: 60px;
+            font-family: "Dancing Script", cursive; 
+        }
+        p{
+            font-size: 20px;
+            font-family: "Catamaran", sans-serif;
+            text-align: justify;
+            line-height: 40px;
+
+        }
+
+        a{
+            text-decoration: none;
+            background-color: black;
+            color: white;
+            width: 200px;
+            height: 60px;
+            display: block;
+            text-align: center;
+            font-size: 25px;
+            line-height: 60px;
+            word-spacing: 5px;
+            font-family:"Dancing Script", cursive; 
+            border-radius: 50px 10px 50px 10px;
+            
+        }
+        
+        a:hover{
+            background-color: rgb(173, 143, 43);
+            border-radius: 50px 50px 0px 50px;
+            width: 250px;
+            transition: 1s;
+            color: black;
+        }
+
+       
